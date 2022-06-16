@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Zoe</h1>
 <h3 align="center">A passionate Computer Science's student from NTUT</h3>
-<h3 align="center">:sparkling_heart:Swim:swimming_woman: Foodie:drooling_face: music:musical_keyboard::violin:</h3>
+<h3 align="center">:sparkling_heart:Swim:swimming_woman: Foodie:drooling_face: Music:musical_keyboard::violin:</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zoezou9&label=Profile%20views&color=0e75b6&style=flat" alt="zoezou9" /> 
