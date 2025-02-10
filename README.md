@@ -1,17 +1,12 @@
-<!---
-zoezou9/zoezou9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi 👋, I'm Zoe</h1>
-<h3 align="center">A passionate Computer Science's student from NTUT</h3>
-<h3 align="center">:sparkling_heart:Swim:swimming_woman: Foodie:drooling_face: Music:musical_keyboard::violin:</h3>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zoezou9&label=Profile%20views&color=0e75b6&style=flat" alt="zoezou9" /> 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm Zoe</h1>
+<h3 align="center">Master's Student in Information Science and Technology at Penn State University</h3>
+<h3 align="center">Passionate about swimming 🏊‍♀️, cooking 👩‍🍳, and music 🎹🎻</h3>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -28,9 +23,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoezou9&show_icons=true&locale=en&layout=compact" alt="zoezou9" />
-    &nbsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
